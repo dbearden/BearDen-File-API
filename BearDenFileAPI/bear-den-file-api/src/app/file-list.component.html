@@ -1,0 +1,24 @@
+<mat-table [dataSource]="myDataSource">
+  <ng-container matColumnDef="filename">
+    <mat-header-cell *matHeaderCellDef> Filename </mat-header-cell>
+    <mat-cell *matCellDef="let file"> <a [routerLink]="['/Details', file.fileId]" >{{file.filename}} </a></mat-cell>
+    
+  </ng-container>
+
+  <ng-container matColumnDef="size">
+    <mat-header-cell *matHeaderCellDef> Size </mat-header-cell>
+    <mat-cell *matCellDef="let file"> {{file.size}} </mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="modified">
+    <mat-header-cell *matHeaderCellDef> Last Modified </mat-header-cell>
+    <mat-cell *matCellDef="let file"> {{file.modified}} </mat-cell>
+  </ng-container>
+
+  <mat-header-row *matHeaderRowDef="['filename', 'size', 'modified']"></mat-header-row>
+  <mat-row *matRowDef="let myRowData; columns: ['filename', 'size', 'modified']"></mat-row>
+
+</mat-table>
+
+
+

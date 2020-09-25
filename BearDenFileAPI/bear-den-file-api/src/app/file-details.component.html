@@ -1,0 +1,18 @@
+<mat-card>
+  <mat-card-title>{{file.filename}}</mat-card-title>
+  <mat-card-content>
+    <mat-list>
+      <mat-list-item>Size: {{file.size}}</mat-list-item>
+      <mat-list-item>Uploaded: {{file.uploaded}}</mat-list-item>
+      <mat-list-item>Modified: {{file.modified}}</mat-list-item>
+      <mat-list-item>Owner: {{file.owner}}</mat-list-item>
+    </mat-list>
+  </mat-card-content>
+  <mat-card-actions>
+    <a mat-raised-button color="primary" href="/api/Files/Download/{{file.fileId}}" download="{{file.filename}}">Download</a>
+    <a mat-raised-button (click)="edit()">Edit</a>
+
+    <a mat-raised-button color="warn" (click)="delete()">Delete</a>
+
+  </mat-card-actions>
+</mat-card>

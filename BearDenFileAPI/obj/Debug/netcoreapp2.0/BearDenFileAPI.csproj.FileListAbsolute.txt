@@ -1,0 +1,22 @@
+C:/Users/Daniel/source/repos/BearDenFileAPI/BearDenFileAPI/bin/Debug/netcoreapp2.0/BearDenFileAPI.deps.json
+C:/Users/Daniel/source/repos/BearDenFileAPI/BearDenFileAPI/bin/Debug/netcoreapp2.0/BearDenFileAPI.runtimeconfig.json
+C:/Users/Daniel/source/repos/BearDenFileAPI/BearDenFileAPI/bin/Debug/netcoreapp2.0/BearDenFileAPI.runtimeconfig.dev.json
+C:/Users/Daniel/source/repos/BearDenFileAPI/BearDenFileAPI/bin/Debug/netcoreapp2.0/BearDenFileAPI.dll
+C:/Users/Daniel/source/repos/BearDenFileAPI/BearDenFileAPI/bin/Debug/netcoreapp2.0/BearDenFileAPI.pdb
+C:/Users/Daniel/source/repos/BearDenFileAPI/BearDenFileAPI/obj/Debug/netcoreapp2.0/BearDenFileAPI.csprojResolveAssemblyReference.cache
+C:/Users/Daniel/source/repos/BearDenFileAPI/BearDenFileAPI/obj/Debug/netcoreapp2.0/BearDenFileAPI.csproj.CoreCompileInputs.cache
+C:/Users/Daniel/source/repos/BearDenFileAPI/BearDenFileAPI/obj/Debug/netcoreapp2.0/BearDenFileAPI.AssemblyInfoInputs.cache
+C:/Users/Daniel/source/repos/BearDenFileAPI/BearDenFileAPI/obj/Debug/netcoreapp2.0/BearDenFileAPI.AssemblyInfo.cs
+C:/Users/Daniel/source/repos/BearDenFileAPI/BearDenFileAPI/obj/Debug/netcoreapp2.0/BearDenFileAPI.dll
+C:/Users/Daniel/source/repos/BearDenFileAPI/BearDenFileAPI/obj/Debug/netcoreapp2.0/BearDenFileAPI.pdb
+/run/media/dbearden/Kingston/BearDenFileAPI - Copy/BearDenFileAPI/bin/Debug/netcoreapp2.0/BearDenFileAPI.deps.json
+/run/media/dbearden/Kingston/BearDenFileAPI - Copy/BearDenFileAPI/bin/Debug/netcoreapp2.0/BearDenFileAPI.runtimeconfig.json
+/run/media/dbearden/Kingston/BearDenFileAPI - Copy/BearDenFileAPI/bin/Debug/netcoreapp2.0/BearDenFileAPI.runtimeconfig.dev.json
+/run/media/dbearden/Kingston/BearDenFileAPI - Copy/BearDenFileAPI/bin/Debug/netcoreapp2.0/BearDenFileAPI.dll
+/run/media/dbearden/Kingston/BearDenFileAPI - Copy/BearDenFileAPI/bin/Debug/netcoreapp2.0/BearDenFileAPI.pdb
+/run/media/dbearden/Kingston/BearDenFileAPI - Copy/BearDenFileAPI/obj/Debug/netcoreapp2.0/BearDenFileAPI.csprojResolveAssemblyReference.cache
+/run/media/dbearden/Kingston/BearDenFileAPI - Copy/BearDenFileAPI/obj/Debug/netcoreapp2.0/BearDenFileAPI.csproj.CoreCompileInputs.cache
+/run/media/dbearden/Kingston/BearDenFileAPI - Copy/BearDenFileAPI/obj/Debug/netcoreapp2.0/BearDenFileAPI.AssemblyInfoInputs.cache
+/run/media/dbearden/Kingston/BearDenFileAPI - Copy/BearDenFileAPI/obj/Debug/netcoreapp2.0/BearDenFileAPI.AssemblyInfo.cs
+/run/media/dbearden/Kingston/BearDenFileAPI - Copy/BearDenFileAPI/obj/Debug/netcoreapp2.0/BearDenFileAPI.dll
+/run/media/dbearden/Kingston/BearDenFileAPI - Copy/BearDenFileAPI/obj/Debug/netcoreapp2.0/BearDenFileAPI.pdb
